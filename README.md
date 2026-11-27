@@ -1,10 +1,13 @@
-# \# Calculator Git Demo
+# Calculator Git Demo
 
-# 
+A simple calculator project demonstrating Git branching and merge conflict resolution.
 
-# A simple calculator project to demonstrate Git branching and merge conflicts.
+Project Status: Final Release
 
-# 
+Features:
+- Addition
+- Subtraction
+- Git Branching
+- Merge Conflict Resolution
 
-# Project Status: Beta Release
-
+Developer: Prithvi
